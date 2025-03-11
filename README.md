@@ -8,7 +8,7 @@ This is a **Smart Parking System** web application designed to efficiently manag
 
 ## 🌍 Live Demo
 
-**Deployed Link:** [Smart Parking System](https://smart-parking-system-hardware-axmquic9p.vercel.app/)
+**Deployed Link:** [Smart Parking System](https://smart-parking-system-hardware.vercel.app/)
 
 ## 🛠️ Tech Stack
 
